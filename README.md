@@ -17,3 +17,15 @@ Kami menyediakan Item produk  on-store untuk anda kini aanda bisa lihat- item ka
 'Di sini anda bisa menambahkan produk anda seperti : pakaian,acesories,bengkel,jasa,dll'
 
 - [UPLOAD PRODUK](https://github.com/on-store/Item/upload/master)
+
+' Buat Item anda dan publikasikan di ON-STORE'
+
+---
+
+- [PROJECT](https://github.com/on-store/Item/projects)
+
+- [PULREGUEST](https://github.com/on-store/Item/pulls)
+
+- [WIKI](https://github.com/on-store/Item/wiki)
+ 
+- [STAR UPLOAD](https://github.com/on-store/Item/stargazers)
